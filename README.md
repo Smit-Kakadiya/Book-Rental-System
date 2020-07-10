@@ -10,6 +10,7 @@
 - CSS
 - PHP
 - JavaScript
+- Gmail SMTP (Simple Message Transfer Protocol)
 - BootStrap
 - AJAX
 - MySQL
